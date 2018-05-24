@@ -1,2 +1,1 @@
-# CustomPieView
-自定义饼图,可根据实际需求设置数据,后期会继续完善其功能,如增加自定义属性或效果等.
+![image](https://github.com/zhangyue19890303/CustomPieView/blob/master/effect1.png)
